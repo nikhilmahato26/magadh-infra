@@ -2,6 +2,7 @@ import React from 'react';
 import { Phone, ArrowRight, ShieldCheck, MapPin } from 'lucide-react';
 import { BUSINESS_CONFIG, getTelUrl } from '../config/business';
 import { Button } from '../components/Button';
+import heroBgImage from '../assets/hero-bg.jpg';
 
 export const Hero: React.FC = () => {
   const handleScrollToContact = (e: React.MouseEvent<HTMLElement>) => {
@@ -27,13 +28,13 @@ export const Hero: React.FC = () => {
       {/* Background with Industrial Imagery and Gradient Overlays */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1541888946425-d0fbb1861593?auto=format&fit=crop&w=2000&q=80"
-          alt="Modern infrastructure and engineering facility architecture"
-          className="w-full h-full object-cover object-center opacity-25 filter brightness-75 contrast-125"
+          src={heroBgImage}
+          alt="Modern infrastructure, bridge architecture, and engineering logistics network"
+          className="w-full h-full object-cover object-center opacity-35 filter brightness-85 contrast-110"
           loading="eager"
         />
         {/* Deep Navy Gradient Overlays for optimal readability & industrial tone */}
-        <div className="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-950/90 to-navy-900/80" />
+        <div className="absolute inset-0 bg-gradient-to-r from-navy-950/95 via-navy-950/80 to-navy-900/70" />
         <div className="absolute inset-0 bg-gradient-to-t from-navy-950 via-transparent to-navy-950/40" />
 
         {/* Subtle geometric grid pattern for structural feel */}
