@@ -64,7 +64,7 @@ export const BUSINESS_CONFIG: BusinessConfig = {
   heroHeading: "BUILDING TRUST. CONNECTING OPPORTUNITIES.",
   heroSubheading:
     "Welcome to MAGADH INFRA — your business connection for professional services with an All India Permit.",
-  gstNumber: "22HRDPK5087E1Z9",
+  gstNumber: "22HRXPK5087E1Z9",
   coverage: {
     title: "ALL INDIA PERMIT",
     description: "Based in Raipur, Chhattisgarh, MAGADH INFRA has All India Permit coverage.",

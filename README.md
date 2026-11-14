@@ -10,7 +10,7 @@ A modern, production-ready corporate website for **MAGADH INFRA**, built with Re
 - **Operational Coverage:** All India Permit
 - **Headquarters / Registered Address:**
   RAWATPURA COLONY PHASE 2, NEAR SAI MANDIR, MATHPURENA, RAIPUR, CHHATTISGARH – 492013, INDIA
-- **GST Number (GSTIN):** `22HRDPK5087E1Z9`
+- **GST Number (GSTIN):** `22HRXPK5087E1Z9`
 - **Direct Phone Numbers:**
   - `+91 94242 54090` (Main Enquiry)
   - `+91 78801 04441` (Support & Coordination)
